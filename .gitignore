@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+.vs/*
+.vscode/launch.json
+.vscode/tasks.json
+GameOfLife/bin/*
+GameOfLife/obj/*
+GameOfLife.GridMembers/obj/*
+GameOfLife.GridMembers/bin/*
+GameOfLife.UnitTests/bin/*
+GameOfLife.UnitTests/obj/*
